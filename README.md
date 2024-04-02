@@ -13,6 +13,14 @@
 Um Sitema Financeiro que auxilia as pessoas a gerenciarem suas contas bancarias de uma forma mais inteligente.
 
 <h1 align="center"> Sobre o Codigo </h1>
-
 Nesse código temos 4 tabelas, sendo elas: Usuário, Ganhos, Gastos e Investimento, tabelas essas criadas para arquivar informações por meio do banco de dados de um sistema financeiro.
 
+<h1></h1>
+
+<h1 align="center"> ✔️ Técnicas e tecnologias utilizadas </h1>
+  <code> SQL </code> 
+  <code> Banco de Dados </code> 
+
+<h1></h1>
+
+O projeto funciona como uma carteira digita, voce pode informar seus gastos e ganhos, e com isso, o sistema te retorna alertas sobre gasto abusivo e/ou investimentos interessantes. Projeto totalmente desenvolvido pelo Renan Zanollo, Lucas, Lucas, Guilherme e Gustavo.
