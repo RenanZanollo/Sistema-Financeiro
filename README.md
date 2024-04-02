@@ -12,10 +12,6 @@
 
 Um Sitema Financeiro que auxilia as pessoas a gerenciarem suas contas bancarias de uma forma mais inteligente.
 
-<p align="center">
-<img src="https://media.moneytimes.com.br/uploads/2023/10/e-wallet-6368676-1280-1024x576.jpg"/>
-  </p>
-
 <h1 align="center"> Sobre o Codigo </h1>
 
 Nesse código temos 4 tabelas, sendo elas: Usuário, Ganhos, Gastos e Investimento, tabelas essas criadas para arquivar informações por meio do banco de dados de um sistema financeiro.
